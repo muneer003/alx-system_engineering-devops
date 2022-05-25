@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 #!/bin/bash 
+=======
+#!/bin/bash
+>>>>>>> edd3e97cfc23012c4d029c91ee825490af5e98b9
 ls -la
